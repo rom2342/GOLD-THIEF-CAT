@@ -1,0 +1,7 @@
+{
+  "name": "חוסם מצלמה ומיקרופון",
+  "description": "אפליקציה לחסימה והגנה מפני גישה למצלמה ולמיקרופון במכשיר",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

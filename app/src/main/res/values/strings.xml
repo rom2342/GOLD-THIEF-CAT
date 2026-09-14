@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">חוסם מצלמה ומיקרופון</string>
+    <string name="device_admin_description">מאפשר לאפליקציה לחסום את כל המצלמות במכשיר ברמת האבטחה של מערכת ההפעלה.</string>
+    <string name="camera_block_title">חסימת מצלמה</string>
+    <string name="mic_block_title">חסימת מיקרופון</string>
+    <string name="shield_active">הגנה פעילה</string>
+    <string name="shield_inactive">הגנה כבויה</string>
+    <string name="tile_camera_block">חוסם מצלמה</string>
+    <string name="tile_mic_block">חוסם מיקרופון</string>
+    <string name="notification_channel_name">מצב הגנת פרטיות</string>
+    <string name="notification_channel_desc">התראות על מצב חסימת המצלמה והמיקרופון</string>
+</resources>
